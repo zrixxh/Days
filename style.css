@@ -1,1 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 15px;
+  background: #1e1e1e;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);
+}
+
+#days {
+  font-size: 5em;
+  margin: 20px 0;
+  color: #00ffff;
+}
 
